@@ -1,12 +1,10 @@
 <?php 
-class cat
+class car
 {
-	public function myau()
-	{echo "myau";
-}
 
-	public function cat2()
+	public function go()
 	{
-		echo "go";
-	}
+
+	}	
+	
 }

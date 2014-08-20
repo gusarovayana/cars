@@ -1,5 +1,6 @@
+
 <?php
- class cars extends car 
+ class wan extends car
  {
  	public function courpuse()
  	{
